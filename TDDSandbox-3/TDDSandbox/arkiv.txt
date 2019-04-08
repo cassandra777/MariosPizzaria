@@ -1,0 +1,6 @@
+Bestilling{pizza=Pizza{pizzaNummer=4, pizzaNavn=Carbona, pris=63.0}, ordreNummer=2}
+Bestilling{pizza=Pizza{pizzaNummer=3, pizzaNavn=Cacciatore, pris=57.0}, ordreNummer=1}
+Bestilling{pizza=Pizza{pizzaNummer=4, pizzaNavn=Carbona, pris=63.0}, ordreNummer=2}
+Bestilling{pizza=Pizza{pizzaNummer=3, pizzaNavn=Cacciatore, pris=57.0}, ordreNummer=1}
+Bestilling{pizza=Pizza{pizzaNummer=4, pizzaNavn=Carbona, pris=63.0}, ordreNummer=2}
+Bestilling{pizza=Pizza{pizzaNummer=5, pizzaNavn=Dennis, pris=65.0}, ordreNummer=3}
